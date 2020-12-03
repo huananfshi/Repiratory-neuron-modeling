@@ -227,5 +227,5 @@ xticks([])
 xlabel('t')
 yticks(-50:20:10)
 ylabel('V_m (mV)')
-legend('preBötC','XII_n','pF_L')
+legend('preBÃ¶tC','XII_n','pF_L')
 box off
